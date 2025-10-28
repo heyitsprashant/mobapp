@@ -1,0 +1,51 @@
+[
+  {
+    "id": "q001",
+    "author": "Maya Angelou",
+    "text": "You will face many defeats in life, but never let yourself be defeated.",
+    "category": "Resilience",
+    "background": "sunrise"
+  },
+  {
+    "id": "q002",
+    "author": "Nelson Mandela",
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "category": "Courage",
+    "background": "mountain"
+  },
+  {
+    "id": "q003",
+    "author": "Eleanor Roosevelt",
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "category": "Dreams",
+    "background": "stars"
+  },
+  {
+    "id": "q004",
+    "author": "James Clear",
+    "text": "Habits are the compound interest of self-improvement.",
+    "category": "Growth",
+    "background": "aurora"
+  },
+  {
+    "id": "q005",
+    "author": "Rumi",
+    "text": "What you seek is seeking you.",
+    "category": "Mindfulness",
+    "background": "ocean"
+  },
+  {
+    "id": "q006",
+    "author": "Albert Einstein",
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "category": "Momentum",
+    "background": "forest"
+  },
+  {
+    "id": "q007",
+    "author": "Arianna Huffington",
+    "text": "Fearlessness is like a muscle. The more we exercise it, the stronger it becomes.",
+    "category": "Fearless",
+    "background": "sunrise"
+  }
+]
