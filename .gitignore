@@ -1,0 +1,46 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.yarn/
+.pnp/
+.pnp.js
+
+# Android
+android/.gradle/
+android/app/build/
+.gradle/
+build/
+*.keystore
+
+# iOS
+ios/Pods/
+ios/Pods-*/
+ios/build/
+xcuserdata/
+DerivedData/
+*.xcworkspace
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# Misc
+.DS_Store
+.env
+.env.*.local
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Generated
+*.iml
+*.class
+
+# macOS
+*.DS_Store
